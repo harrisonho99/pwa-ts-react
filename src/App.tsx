@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css';
 import useSystemStyle from "./hook/useSystemStyle"
 const color = {
-
   fontDark: "#61DAFB",
   fontLight: "#9575cd"
 }
